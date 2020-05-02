@@ -13,7 +13,7 @@
   </div>
 
   <div>
-    <h1> Resources </h1>
+    <h2> Resources </h2>
 
 
 
