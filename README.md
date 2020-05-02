@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <h1> Blog on my Second Degree Experience </h1>
