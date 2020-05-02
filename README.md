@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title> Blog on my Second Degree Experience </title>
+    <h1> Blog on my Second Degree Experience </h1>
   </head>
 
 
