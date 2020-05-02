@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+
 # Hello there and welcome to my Website
 Take a seat, relax, and follow the process
 
@@ -26,3 +29,4 @@ Remove the target="_blank" attribute from the anchor tag since this causes the l
 
 Then add an id attribute with a value of "footer" to the <footer> element at the bottom of the page.
 -->
+</html>
