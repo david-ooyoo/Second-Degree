@@ -5,14 +5,15 @@
       (SFU). My First degree was in a BSc in Cognitive Systems which was completed at the Univsersity of British Columbia (UBC).
       </p>
       <p>The purpose of this blog is to give some insight on my experiences at university with a focus on helping out future
-      second degree students who are looking to study computer science at SFU
+      second degree students who are looking to study computer science at SFU. This blog can hopefully serve some reassurance
+      that you are on the right track in terms of applications, due dates, course selections, waitlists, etc. However, if there 
+      are some doubts it is always best to contact the services SFU provides. I will link those services down below under the 
+      header "Resources"
       </p>
+  </div>
 
-</div>
-
-
-
-
+  <div>
+    <h1> Resources </h1>
 
 
 
@@ -20,6 +21,9 @@
 
 
 
+
+
+</html>
 
 
 <!--
