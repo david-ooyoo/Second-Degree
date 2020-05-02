@@ -1,15 +1,9 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <title> Blog on my Second Degree Experience </title>
+  </head>
 
-# Hello there and welcome to my Website
-Take a seat, relax, and follow the process
-
-<ol>
-<li>First item</li>
-<li>Second item</li>
-<li>Third item</li>
-<li>Fourth item</li>
-</ol> 
 
 <!--
 a (anchor) elements can also be used to create internal links to jump to different sections within a webpage.
