@@ -15,24 +15,24 @@
   <div>
   <h2> Table of Contents </h2>
   <ol>
-    <li> Resources </li>
-    <li> First Year </li>
-    <li> Second Year </li>
-    <li> Third Year </li>
-    <li> Fourth Year </li>
-    <li> Fifth Year </li>
+    <li> <a href="#Resource-header"> Resources </a> </li>
+    <li> <a href="#First-year-header"> First Year </a> </li>
+    <li> <a href="#Second-year-header"> Second Year </a> </li>
+    <li> <a href=#"Third-year-header"> Third Year </a> </li>
+    <li> <a href="#Fourth-year-header"> Fourth Year </a> </li>
+    <li> <a href="#Fifth-year-header"> Fifth Year </a> </li>
     <li> <a href="#SFU-header"> SFU (Second Degree) </a> </li>
   </ol>
   </div>
   
   <div>
-  <h2> Resources </h2>
+  <h2 id="Resource-header> Resources </h2>
   
-  <h2> First Year </h2>
-  <h2> Second Year </h2>
-  <h2> Third Year </h2>
-  <h2> Fourth Year </h2>
-  <h2> Fifth Year </h2>
+  <h2 id="First-year-header"> First Year </h2>
+  <h2 id="Second-year-header"> Second Year </h2>
+  <h2 id="Third-year-header"> Third Year </h2>
+  <h2 id="Fourth-year-header"> Fourth Year </h2>
+  <h2 id="Fifth-year-header"> Fifth Year </h2>
   <h2 id="SFU-header"> SFU (Second Degree) </h2>
 
 
