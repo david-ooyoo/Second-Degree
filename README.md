@@ -27,38 +27,26 @@
   
   <div>
   <h2 id="Resource-header> Resources </h2>
-  
   <h2 id="First-year-header"> First Year </h2>
   <h2 id="Second-year-header"> Second Year </h2>
   <h2 id="Third-year-header"> Third Year </h2>
   <h2 id="Fourth-year-header"> Fourth Year </h2>
   <h2 id="Fifth-year-header"> Fifth Year </h2>
+  
+  <div>
   <h2 id="SFU-header"> SFU (Second Degree) </h2>
+	<p> In this section, I will be talking about the courses I took each semester as well as some information regarding the application process as a second degree student. </p> 
+	<ol>
+		<li> <a href="#Sem1"> Semester 1 (Fall 2019) </a> </li>
+		<li> <a href="#Sem2"> Semester 2 (Spring 2020) </a> </li>
+		<li> <a href="#Sem3"> Semester 3 (Summer 2020) </a> </li>
+	</ol>
+	<h3 id="Sem1"> Semester 1 (Fall 2019) </h3>
+	<h3 id="Sem2"> Semester 2 (Spring 2020) </h3>
+	<h3 id="Sem3> Semester 3 (Summer 2020) </h3>
+		
+
+  </div>
 
 
 
-
-
-
-
-</html>
-
-
-<!--
-a (anchor) elements can also be used to create internal links to jump to different sections within a webpage.
-
-To create an internal link, you assign a link's href attribute to a hash symbol # plus the value of the id attribute for the element that you want to internally link to, usually further down the page. You then need to add the same id attribute to the element you are linking to. An id is an attribute that uniquely describes an element.
-
-Below is an example of an internal anchor link and its target element:
-
-<a href="#contacts-header">Contacts</a>
-...
-<h2 id="contacts-header">Contacts</h2>
-When users click the Contacts link, they'll be taken to the section of the webpage with the Contacts header element.
-
-Change your external link to an internal link by changing the href attribute to "#footer" and the text from "cat photos" to "Jump to Bottom".
-
-Remove the target="_blank" attribute from the anchor tag since this causes the linked document to open in a new window tab.
-
-Then add an id attribute with a value of "footer" to the <footer> element at the bottom of the page.
--->
