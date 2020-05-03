@@ -18,7 +18,7 @@
     <li> <a href="#Resource-header"> Resources </a> </li>
     <li> <a href="#First-year-header"> First Year </a> </li>
     <li> <a href="#Second-year-header"> Second Year </a> </li>
-    <li> <a href=#"Third-year-header"> Third Year </a> </li>
+    <li> <a href="#Third-year-header"> Third Year </a> </li>
     <li> <a href="#Fourth-year-header"> Fourth Year </a> </li>
     <li> <a href="#Fifth-year-header"> Fifth Year </a> </li>
     <li> <a href="#SFU-header"> SFU (Second Degree) </a> </li>
