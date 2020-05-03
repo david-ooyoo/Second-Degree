@@ -1,6 +1,6 @@
 <html>
   <div>
-    <h1>Blog on my Second Degree Experience</h1>
+    <h1>Introduction</h1>
       <p> My name is David Park and I am currently a Second Degree student studying Computer Science at Simon Fraser University  
       (SFU). My First degree was in a BSc in Cognitive Systems which was completed at the Univsersity of British Columbia (UBC).
       </p>
