@@ -26,7 +26,7 @@
   </div>
   
   <div>
-  <h2 id="Resource-header> Resources </h2>
+  <h2 id="Resource-header"> Resources </h2>
   <h2 id="First-year-header"> First Year </h2>
   <h2 id="Second-year-header"> Second Year </h2>
   <h2 id="Third-year-header"> Third Year </h2>
