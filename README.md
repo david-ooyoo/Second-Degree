@@ -21,7 +21,7 @@
     <li> Third Year </li>
     <li> Fourth Year </li>
     <li> Fifth Year </li>
-    <li <a href="#SFU-header">> SFU (Second Degree) </li>
+    <a href="#SFU-header"> SFU (Second Degree) </a>
   </ol>
   </div>
   
