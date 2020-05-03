@@ -17,18 +17,23 @@
   <ol>
     <li> Resources </li>
     <li> First Year </li>
-    <li> Seond Year </li>
+    <li> Second Year </li>
     <li> Third Year </li>
     <li> Fourth Year </li>
     <li> Fifth Year </li>
-    <li> SFU (Second Degree) </li>
+    <li href="#SFU-header"> SFU (Second Degree) </li>
   </ol>
   </div>
   
   <div>
-    <h2> Resources </h2>
-
-
+  <h2> Resources </h2>
+  
+  <h2> First Year </h2>
+  <h2> Second Year </h2>
+  <h2> Third Year </h2>
+  <h2> Fourth Year </h2>
+  <h2> Fifth Year </h2>
+  <h2 id="SFU-header"> SFU (Second Degree) </h2>
 
 
 
