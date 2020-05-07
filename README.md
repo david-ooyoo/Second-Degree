@@ -44,7 +44,7 @@
 	<h3 id="Sem1"> Semester 1 (Fall 2019) </h3>
 	<h3 id="Sem2"> Semester 2 (Spring 2020) </h3>
 	<h3 id="Sem3"> Semester 3 (Summer 2020) </h3>
-	<a "href=/main/Second Degree.html">Second Degree</a>
+	<a "href=https://david-ooyoo.github.io/Second-Degree/Second_Degree">Second Degree</a>
 		
 
   </div>
