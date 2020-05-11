@@ -1,18 +1,41 @@
 body {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
-    background-color: rgb(161, 177, 201);
+    font-size: 16px;
+    background-color: white;
     max-width: 750px;
     display: block;
     width: 100%;
     margin: auto;
     text-align: left;
-}
-/*
-p {
-    background-color: rgb(168, 218, 220);
-    opacity: 1;
-    border-radius: 10px;
 
+    /*display: grid;*/
+    grid:
+    "header header header header"
+    "..... paragraph table ....." / 
+    1fr 1fr 1fr 1fr;
 }
-*/
+
+.table-container th {
+    text-align: left;
+    padding-right: 100px;
+    background-color: #14213D;
+    color: white;
+}
+
+.table-container tr{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #E5E5E5;
+    color: black;
+}
+
+.table-container td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    width: 50px;
+}
+
+hr {
+    color: black;
+}
